@@ -11,3 +11,6 @@ Version 0.1
 
  Version 0.4
  - 반복문에 break문 추가
+
+Version 0.5
+ - for문을 while문으로 변경
