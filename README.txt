@@ -14,3 +14,6 @@ Version 0.1
 
 Version 0.5
  - for문을 while문으로 변경
+
+Version 0.6
+ - 상황조건연산자로 출력부분 변경
